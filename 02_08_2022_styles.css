@@ -1,0 +1,22 @@
+
+  h1 {text-align: center;}
+  h2 {text-align: center;}
+  h3 {text-align: center;}
+  h4 {text-align: center;}
+  form {text-align: center;}
+  form {font-weight: bold;}
+  p  {text-align: center;}
+  input{text-align: center;}
+.submit{
+  margin:0 auto;
+}
+body { 
+  background-color:lightblue;
+}
+form {
+    padding: 25px;
+    background-color: lightseagreen;
+    border: 10px grey;
+    margin: auto;
+    width: 500px;
+}
