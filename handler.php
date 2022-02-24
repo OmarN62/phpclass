@@ -8,6 +8,9 @@ print_r($_POST);
 $firstname = $_POST["firstname"];
 $lastname = $_POST["lastname"];
 $state = $_POST["state"];
+$preferred = $_POST["preferred"];
+$city = $_POST["city"];
+$mailList = $_POST["mailList"];
 $JOIN_VAR = "Thank you," .$firstname. " " .$lastname.  "from the state of:" . $state. ".";
 
 
