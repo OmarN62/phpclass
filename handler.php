@@ -15,7 +15,7 @@ $JOIN_VAR = "<strong>Thank you,<strong><br><br> " .$firstname. " <br>We have rec
 
 $userFriendlyState = "";
 // $displayedCity
-switch($state) {
+switch($state) { wooo
     case "CT":
         $userFriendlyState = "Connecticut";
         break;

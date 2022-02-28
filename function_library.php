@@ -45,8 +45,7 @@ function oneState(){
         break;
         default:
         echo "You didn't choose what state you're in.";
-
+# test for github
     }
 }
-
 ?>

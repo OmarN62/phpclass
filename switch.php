@@ -8,3 +8,4 @@ switch($semester){
 }
 
 ?>
+<!-- test -->
